@@ -8,19 +8,15 @@ public class League
 	public League()
 	{
 		league = new Team[32];
-		int i = 0;
 
 		try
 		{
-			File file = new File("NFL.csv");
-			Scanner input = new Scanner(file).useDelimiter(",");
+			File file = new File("NFL.txt");
+			Scanner input = new Scanner(file).useDelimiter(",|\\n");
 
-			while(i < 30)
+			for(int i = 0; i < 32; i++)
 			{
-				league[++i] = new Team(input.next());
-				league[++i] = new Team(input.next());
-				//input.nextLine();
-				System.out.println(i);
+				league[i] = new Team(input.next());
 			}
 		}
 		catch(Exception e)
@@ -37,7 +33,7 @@ public class League
 
 		for(int i = 0; i < 32; i++)
 		{
-			output += league[i].toString() + "\n";
+			output += (league[i].toString() + "\n");
 		}
 
 		return output;

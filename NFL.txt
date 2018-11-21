@@ -1,256 +1,256 @@
-Kansas City Chiefs	,	New England Patriots		
-Pittsburgh Steelers	,	Cleveland Browns		
-Baltimore Ravens	,	Cincinnati Bengals		
-Philadelphia Eagles	,	Washington Redskins		
-Detroit Lions	,	Arizona Cardinals		
-Jacksonville Jaguars	,	Houston Texans		
-Oakland Raiders	,	Tennessee Titans		
-Atlanta Falcons	,	Chicago Bears		
-Buffalo Bills	,	New York Jets		
-Los Angeles Rams	,	Indianapolis Colts		
-Carolina Panthers	,	San Francisco 49ers		
-Green Bay Packers	,	Seattle Seahawks		
-Dallas Cowboys	,	New York Giants		
-Minnesota Vikings	,	New Orleans Saints		
-Denver Broncos	,	Los Angeles Chargers		
-Houston Texans	,	Cincinnati Bengals		
-Arizona Cardinals	,	Indianapolis Colts		
-Carolina Panthers	,	Buffalo Bills		
-New England Patriots	,	New Orleans Saints		
-Pittsburgh Steelers	,	Minnesota Vikings		
-Tampa Bay Buccaneers	,	Chicago Bears		
-Baltimore Ravens	,	Cleveland Browns		
-Tennessee Titans	,	Jacksonville Jaguars		
-Kansas City Chiefs	,	Philadelphia Eagles		
-Miami Dolphins	,	Los Angeles Chargers		
-Oakland Raiders	,	New York Jets		
-Washington Redskins	,	Los Angeles Rams		
-Seattle Seahawks	,	San Francisco 49ers		
-Denver Broncos	,	Dallas Cowboys		
-Atlanta Falcons	,	Green Bay Packers		
-Detroit Lions	,	New York Giants		
-Los Angeles Rams	,	San Francisco 49ers		
-Jacksonville Jaguars	,	Baltimore Ravens		
-New York Jets	,	Miami Dolphins		
-Philadelphia Eagles	,	New York Giants		
-Atlanta Falcons	,	Detroit Lions		
-Buffalo Bills	,	Denver Broncos		
-Minnesota Vikings	,	Tampa Bay Buccaneers		
-Chicago Bears	,	Pittsburgh Steelers		
-New Orleans Saints	,	Carolina Panthers		
-Indianapolis Colts	,	Cleveland Browns		
-New England Patriots	,	Houston Texans		
-Tennessee Titans	,	Seattle Seahawks		
-Kansas City Chiefs	,	Los Angeles Chargers		
-Green Bay Packers	,	Cincinnati Bengals		
-Washington Redskins	,	Oakland Raiders		
-Dallas Cowboys	,	Arizona Cardinals		
-Green Bay Packers	,	Chicago Bears		
-New Orleans Saints	,	Miami Dolphins		
-Cincinnati Bengals	,	Cleveland Browns		
-Houston Texans	,	Tennessee Titans		
-New York Jets	,	Jacksonville Jaguars		
-Los Angeles Rams	,	Dallas Cowboys		
-Detroit Lions	,	Minnesota Vikings		
-Pittsburgh Steelers	,	Baltimore Ravens		
-Buffalo Bills	,	Atlanta Falcons		
-Carolina Panthers	,	New England Patriots		
-Arizona Cardinals	,	San Francisco 49ers		
-Tampa Bay Buccaneers	,	New York Giants		
-Philadelphia Eagles	,	Los Angeles Chargers		
-Denver Broncos	,	Oakland Raiders		
-Seattle Seahawks	,	Indianapolis Colts		
-Kansas City Chiefs	,	Washington Redskins		
-New England Patriots	,	Tampa Bay Buccaneers		
-Miami Dolphins	,	Tennessee Titans		
-Carolina Panthers	,	Detroit Lions		
-Philadelphia Eagles	,	Arizona Cardinals		
-Jacksonville Jaguars	,	Pittsburgh Steelers		
-Los Angeles Chargers	,	New York Giants		
-Indianapolis Colts	,	San Francisco 49ers		
-Cincinnati Bengals	,	Buffalo Bills		
-New York Jets	,	Cleveland Browns		
-Baltimore Ravens	,	Oakland Raiders		
-Seattle Seahawks	,	Los Angeles Rams		
-Green Bay Packers	,	Dallas Cowboys		
-Kansas City Chiefs	,	Houston Texans		
-Minnesota Vikings	,	Chicago Bears		
-Philadelphia Eagles	,	Carolina Panthers		
-Miami Dolphins	,	Atlanta Falcons		
-New England Patriots	,	New York Jets		
-Houston Texans	,	Cleveland Browns		
-Chicago Bears	,	Baltimore Ravens		
-New Orleans Saints	,	Detroit Lions		
-Washington Redskins	,	San Francisco 49ers		
-Minnesota Vikings	,	Green Bay Packers		
-Arizona Cardinals	,	Tampa Bay Buccaneers		
-Los Angeles Rams	,	Jacksonville Jaguars		
-Los Angeles Chargers	,	Oakland Raiders		
-Pittsburgh Steelers	,	Kansas City Chiefs		
-New York Giants	,	Denver Broncos		
-Tennessee Titans	,	Indianapolis Colts		
-Oakland Raiders	,	Kansas City Chiefs		
-Miami Dolphins	,	New York Jets		
-Buffalo Bills	,	Tampa Bay Buccaneers		
-New Orleans Saints	,	Green Bay Packers		
-Jacksonville Jaguars	,	Indianapolis Colts		
-Tennessee Titans	,	Cleveland Browns		
-Minnesota Vikings	,	Baltimore Ravens		
-Chicago Bears	,	Carolina Panthers		
-Los Angeles Rams	,	Arizona Cardinals		
-Dallas Cowboys	,	San Francisco 49ers		
-Pittsburgh Steelers	,	Cincinnati Bengals		
-Los Angeles Chargers	,	Denver Broncos		
-Seattle Seahawks	,	New York Giants		
-New England Patriots	,	Atlanta Falcons		
-Philadelphia Eagles	,	Washington Redskins		
-Baltimore Ravens	,	Miami Dolphins		
-Minnesota Vikings	,	Cleveland Browns		
-Buffalo Bills	,	Oakland Raiders		
-Atlanta Falcons	,	New York Jets		
-Cincinnati Bengals	,	Indianapolis Colts		
-Carolina Panthers	,	Tampa Bay Buccaneers		
-Philadelphia Eagles	,	San Francisco 49ers		
-New England Patriots	,	Los Angeles Chargers		
-New Orleans Saints	,	Chicago Bears		
-Seattle Seahawks	,	Houston Texans		
-Dallas Cowboys	,	Washington Redskins		
-Pittsburgh Steelers	,	Detroit Lions		
-Kansas City Chiefs	,	Denver Broncos		
-New York Jets	,	Buffalo Bills		
-Philadelphia Eagles	,	Denver Broncos		
-Los Angeles Rams	,	New York Giants		
-Tennessee Titans	,	Baltimore Ravens		
-New Orleans Saints	,	Tampa Bay Buccaneers		
-Carolina Panthers	,	Atlanta Falcons		
-Jacksonville Jaguars	,	Cincinnati Bengals		
-Indianapolis Colts	,	Houston Texans		
-Washington Redskins	,	Seattle Seahawks		
-Arizona Cardinals	,	San Francisco 49ers		
-Dallas Cowboys	,	Kansas City Chiefs		
-Oakland Raiders	,	Miami Dolphins		
-Detroit Lions	,	Green Bay Packers		
-Seattle Seahawks	,	Arizona Cardinals		
-Detroit Lions	,	Cleveland Browns		
-Tennessee Titans	,	Cincinnati Bengals		
-New Orleans Saints	,	Buffalo Bills		
-Green Bay Packers	,	Chicago Bears		
-Jacksonville Jaguars	,	Los Angeles Chargers		
-Minnesota Vikings	,	Washington Redskins		
-Tampa Bay Buccaneers	,	New York Jets		
-Pittsburgh Steelers	,	Indianapolis Colts		
-Los Angeles Rams	,	Houston Texans		
-Atlanta Falcons	,	Dallas Cowboys		
-San Francisco 49ers	,	New York Giants		
-New England Patriots	,	Denver Broncos		
-Carolina Panthers	,	Miami Dolphins		
-Pittsburgh Steelers	,	Tennessee Titans		
-Tampa Bay Buccaneers	,	Miami Dolphins		
-Detroit Lions	,	Chicago Bears		
-Minnesota Vikings	,	Los Angeles Rams		
-Baltimore Ravens	,	Green Bay Packers		
-New York Giants	,	Kansas City Chiefs		
-Jacksonville Jaguars	,	Cleveland Browns		
-New Orleans Saints	,	Washington Redskins		
-Houston Texans	,	Arizona Cardinals		
-Los Angeles Chargers	,	Buffalo Bills		
-Cincinnati Bengals	,	Denver Broncos		
-New England Patriots	,	Oakland Raiders		
-Philadelphia Eagles	,	Dallas Cowboys		
-Atlanta Falcons	,	Seattle Seahawks		
-Minnesota Vikings	,	Detroit Lions		
-Los Angeles Chargers	,	Dallas Cowboys		
-Washington Redskins	,	New York Giants		
-Tennessee Titans	,	Indianapolis Colts		
-New England Patriots	,	Miami Dolphins		
-Buffalo Bills	,	Kansas City Chiefs		
-Philadelphia Eagles	,	Chicago Bears		
-Atlanta Falcons	,	Tampa Bay Buccaneers		
-Carolina Panthers	,	New York Jets		
-Cincinnati Bengals	,	Cleveland Browns		
-Seattle Seahawks	,	San Francisco 49ers		
-Oakland Raiders	,	Denver Broncos		
-Los Angeles Rams	,	New Orleans Saints		
-Arizona Cardinals	,	Jacksonville Jaguars		
-Pittsburgh Steelers	,	Green Bay Packers		
-Baltimore Ravens	,	Houston Texans		
-Dallas Cowboys	,	Washington Redskins		
-Jacksonville Jaguars	,	Indianapolis Colts		
-Tennessee Titans	,	Houston Texans		
-New England Patriots	,	Buffalo Bills		
-New York Jets	,	Kansas City Chiefs		
-Baltimore Ravens	,	Detroit Lions		
-San Francisco 49ers	,	Chicago Bears		
-Miami Dolphins	,	Denver Broncos		
-Minnesota Vikings	,	Atlanta Falcons		
-Green Bay Packers	,	Tampa Bay Buccaneers		
-Los Angeles Chargers	,	Cleveland Browns		
-Oakland Raiders	,	New York Giants		
-Los Angeles Rams	,	Arizona Cardinals		
-New Orleans Saints	,	Carolina Panthers		
-Seattle Seahawks	,	Philadelphia Eagles		
-Pittsburgh Steelers	,	Cincinnati Bengals		
-Atlanta Falcons	,	New Orleans Saints		
-Chicago Bears	,	Cincinnati Bengals		
-Carolina Panthers	,	Minnesota Vikings		
-Dallas Cowboys	,	New York Giants		
-San Francisco 49ers	,	Houston Texans		
-Buffalo Bills	,	Indianapolis Colts		
-Kansas City Chiefs	,	Oakland Raiders		
-Detroit Lions	,	Tampa Bay Buccaneers		
-Green Bay Packers	,	Cleveland Browns		
-Denver Broncos	,	New York Jets		
-Los Angeles Chargers	,	Washington Redskins		
-Arizona Cardinals	,	Tennessee Titans		
-Jacksonville Jaguars	,	Seattle Seahawks		
-Philadelphia Eagles	,	Los Angeles Rams		
-Pittsburgh Steelers	,	Baltimore Ravens		
-Miami Dolphins	,	New England Patriots		
-Denver Broncos	,	Indianapolis Colts		
-Detroit Lions	,	Chicago Bears		
-Kansas City Chiefs	,	Los Angeles Chargers		
-Jacksonville Jaguars	,	Houston Texans		
-Buffalo Bills	,	Miami Dolphins		
-New Orleans Saints	,	New York Jets		
-Baltimore Ravens	,	Cleveland Browns		
-Minnesota Vikings	,	Cincinnati Bengals		
-Philadelphia Eagles	,	New York Giants		
-Carolina Panthers	,	Green Bay Packers		
-Washington Redskins	,	Arizona Cardinals		
-Los Angeles Rams	,	Seattle Seahawks		
-San Francisco 49ers	,	Tennessee Titans		
-New England Patriots	,	Pittsburgh Steelers		
-Dallas Cowboys	,	Oakland Raiders		
-Atlanta Falcons	,	Tampa Bay Buccaneers		
-Baltimore Ravens	,	Indianapolis Colts		
-Minnesota Vikings	,	Green Bay Packers		
-Los Angeles Rams	,	Tennessee Titans		
-Washington Redskins	,	Denver Broncos		
-Los Angeles Chargers	,	New York Jets		
-New England Patriots	,	Buffalo Bills		
-Kansas City Chiefs	,	Miami Dolphins		
-Cincinnati Bengals	,	Detroit Lions		
-Chicago Bears	,	Cleveland Browns		
-New Orleans Saints	,	Atlanta Falcons		
-Carolina Panthers	,	Tampa Bay Buccaneers		
-San Francisco 49ers	,	Jacksonville Jaguars		
-Seattle Seahawks	,	Dallas Cowboys		
-Arizona Cardinals	,	New York Giants		
-Pittsburgh Steelers	,	Houston Texans		
-Philadelphia Eagles	,	Oakland Raiders		
-Indianapolis Colts	,	Houston Texans		
-New England Patriots	,	New York Jets		
-Detroit Lions	,	Green Bay Packers		
-Dallas Cowboys	,	Philadelphia Eagles		
-Pittsburgh Steelers	,	Cleveland Browns		
-New York Giants	,	Washington Redskins		
-Minnesota Vikings	,	Chicago Bears		
-San Francisco 49ers	,	Los Angeles Rams		
-Arizona Cardinals	,	Seattle Seahawks		
-Tampa Bay Buccaneers	,	New Orleans Saints		
-Kansas City Chiefs	,	Denver Broncos		
-Los Angeles Chargers	,	Oakland Raiders		
-Buffalo Bills	,	Miami Dolphins		
-Tennessee Titans	,	Jacksonville Jaguars		
-Cincinnati Bengals	,	Baltimore Ravens		
-Atlanta Falcons	,	Carolina Panthers		
+Kansas City Chiefs,New England Patriots
+Pittsburgh Steelers,Cleveland Browns
+Baltimore Ravens,Cincinnati Bengals
+Philadelphia Eagles,Washington Redskins
+Detroit Lions,Arizona Cardinals
+Jacksonville Jaguars,Houston Texans
+Oakland Raiders,Tennessee Titans
+Atlanta Falcons,Chicago Bears
+Buffalo Bills,New York Jets
+Los Angeles Rams,Indianapolis Colts
+Carolina Panthers,San Francisco 49ers
+Green Bay Packers,Seattle Seahawks
+Dallas Cowboys,New York Giants
+Minnesota Vikings,New Orleans Saints
+Denver Broncos,Los Angeles Chargers
+Houston Texans,Cincinnati Bengals
+Arizona Cardinals,Indianapolis Colts
+Carolina Panthers,Buffalo Bills
+New England Patriots,New Orleans Saints
+Pittsburgh Steelers,Minnesota Vikings
+Tampa Bay Buccaneers,Chicago Bears
+Baltimore Ravens,Cleveland Browns
+Tennessee Titans,Jacksonville Jaguars
+Kansas City Chiefs,Philadelphia Eagles
+Miami Dolphins,Los Angeles Chargers
+Oakland Raiders,New York Jets
+Washington Redskins,Los Angeles Rams
+Seattle Seahawks,San Francisco 49ers
+Denver Broncos,Dallas Cowboys
+Atlanta Falcons,Green Bay Packers
+Detroit Lions,New York Giants
+Los Angeles Rams,San Francisco 49ers
+Jacksonville Jaguars,Baltimore Ravens
+New York Jets,Miami Dolphins
+Philadelphia Eagles,New York Giants
+Atlanta Falcons,Detroit Lions
+Buffalo Bills,Denver Broncos
+Minnesota Vikings,Tampa Bay Buccaneers
+Chicago Bears,Pittsburgh Steelers
+New Orleans Saints,Carolina Panthers
+Indianapolis Colts,Cleveland Browns
+New England Patriots,Houston Texans
+Tennessee Titans,Seattle Seahawks
+Kansas City Chiefs,Los Angeles Chargers
+Green Bay Packers,Cincinnati Bengals
+Washington Redskins,Oakland Raiders
+Dallas Cowboys,Arizona Cardinals
+Green Bay Packers,Chicago Bears
+New Orleans Saints,Miami Dolphins
+Cincinnati Bengals,Cleveland Browns
+Houston Texans,Tennessee Titans
+New York Jets,Jacksonville Jaguars
+Los Angeles Rams,Dallas Cowboys
+Detroit Lions,Minnesota Vikings
+Pittsburgh Steelers,Baltimore Ravens
+Buffalo Bills,Atlanta Falcons
+Carolina Panthers,New England Patriots
+Arizona Cardinals,San Francisco 49ers
+Tampa Bay Buccaneers,New York Giants
+Philadelphia Eagles,Los Angeles Chargers
+Denver Broncos,Oakland Raiders
+Seattle Seahawks,Indianapolis Colts
+Kansas City Chiefs,Washington Redskins
+New England Patriots,Tampa Bay Buccaneers
+Miami Dolphins,Tennessee Titans
+Carolina Panthers,Detroit Lions
+Philadelphia Eagles,Arizona Cardinals
+Jacksonville Jaguars,Pittsburgh Steelers
+Los Angeles Chargers,New York Giants
+Indianapolis Colts,San Francisco 49ers
+Cincinnati Bengals,Buffalo Bills
+New York Jets,Cleveland Browns
+Baltimore Ravens,Oakland Raiders
+Seattle Seahawks,Los Angeles Rams
+Green Bay Packers,Dallas Cowboys
+Kansas City Chiefs,Houston Texans
+Minnesota Vikings,Chicago Bears
+Philadelphia Eagles,Carolina Panthers
+Miami Dolphins,Atlanta Falcons
+New England Patriots,New York Jets
+Houston Texans,Cleveland Browns
+Chicago Bears,Baltimore Ravens
+New Orleans Saints,Detroit Lions
+Washington Redskins,San Francisco 49ers
+Minnesota Vikings,Green Bay Packers
+Arizona Cardinals,Tampa Bay Buccaneers
+Los Angeles Rams,Jacksonville Jaguars
+Los Angeles Chargers,Oakland Raiders
+Pittsburgh Steelers,Kansas City Chiefs
+New York Giants,Denver Broncos
+Tennessee Titans,Indianapolis Colts
+Oakland Raiders,Kansas City Chiefs
+Miami Dolphins,New York Jets
+Buffalo Bills,Tampa Bay Buccaneers
+New Orleans Saints,Green Bay Packers
+Jacksonville Jaguars,Indianapolis Colts
+Tennessee Titans,Cleveland Browns
+Minnesota Vikings,Baltimore Ravens
+Chicago Bears,Carolina Panthers
+Los Angeles Rams,Arizona Cardinals
+Dallas Cowboys,San Francisco 49ers
+Pittsburgh Steelers,Cincinnati Bengals
+Los Angeles Chargers,Denver Broncos
+Seattle Seahawks,New York Giants
+New England Patriots,Atlanta Falcons
+Philadelphia Eagles,Washington Redskins
+Baltimore Ravens,Miami Dolphins
+Minnesota Vikings,Cleveland Browns
+Buffalo Bills,Oakland Raiders
+Atlanta Falcons,New York Jets
+Cincinnati Bengals,Indianapolis Colts
+Carolina Panthers,Tampa Bay Buccaneers
+Philadelphia Eagles,San Francisco 49ers
+New England Patriots,Los Angeles Chargers
+New Orleans Saints,Chicago Bears
+Seattle Seahawks,Houston Texans
+Dallas Cowboys,Washington Redskins
+Pittsburgh Steelers,Detroit Lions
+Kansas City Chiefs,Denver Broncos
+New York Jets,Buffalo Bills
+Philadelphia Eagles,Denver Broncos
+Los Angeles Rams,New York Giants
+Tennessee Titans,Baltimore Ravens
+New Orleans Saints,Tampa Bay Buccaneers
+Carolina Panthers,Atlanta Falcons
+Jacksonville Jaguars,Cincinnati Bengals
+Indianapolis Colts,Houston Texans
+Washington Redskins,Seattle Seahawks
+Arizona Cardinals,San Francisco 49ers
+Dallas Cowboys,Kansas City Chiefs
+Oakland Raiders,Miami Dolphins
+Detroit Lions,Green Bay Packers
+Seattle Seahawks,Arizona Cardinals
+Detroit Lions,Cleveland Browns
+Tennessee Titans,Cincinnati Bengals
+New Orleans Saints,Buffalo Bills
+Green Bay Packers,Chicago Bears
+Jacksonville Jaguars,Los Angeles Chargers
+Minnesota Vikings,Washington Redskins
+Tampa Bay Buccaneers,New York Jets
+Pittsburgh Steelers,Indianapolis Colts
+Los Angeles Rams,Houston Texans
+Atlanta Falcons,Dallas Cowboys
+San Francisco 49ers,New York Giants
+New England Patriots,Denver Broncos
+Carolina Panthers,Miami Dolphins
+Pittsburgh Steelers,Tennessee Titans
+Tampa Bay Buccaneers,Miami Dolphins
+Detroit Lions,Chicago Bears
+Minnesota Vikings,Los Angeles Rams
+Baltimore Ravens,Green Bay Packers
+New York Giants,Kansas City Chiefs
+Jacksonville Jaguars,Cleveland Browns
+New Orleans Saints,Washington Redskins
+Houston Texans,Arizona Cardinals
+Los Angeles Chargers,Buffalo Bills
+Cincinnati Bengals,Denver Broncos
+New England Patriots,Oakland Raiders
+Philadelphia Eagles,Dallas Cowboys
+Atlanta Falcons,Seattle Seahawks
+Minnesota Vikings,Detroit Lions
+Los Angeles Chargers,Dallas Cowboys
+Washington Redskins,New York Giants
+Tennessee Titans,Indianapolis Colts
+New England Patriots,Miami Dolphins
+Buffalo Bills,Kansas City Chiefs
+Philadelphia Eagles,Chicago Bears
+Atlanta Falcons,Tampa Bay Buccaneers
+Carolina Panthers,New York Jets
+Cincinnati Bengals,Cleveland Browns
+Seattle Seahawks,San Francisco 49ers
+Oakland Raiders,Denver Broncos
+Los Angeles Rams,New Orleans Saints
+Arizona Cardinals,Jacksonville Jaguars
+Pittsburgh Steelers,Green Bay Packers
+Baltimore Ravens,Houston Texans
+Dallas Cowboys,Washington Redskins
+Jacksonville Jaguars,Indianapolis Colts
+Tennessee Titans,Houston Texans
+New England Patriots,Buffalo Bills
+New York Jets,Kansas City Chiefs
+Baltimore Ravens,Detroit Lions
+San Francisco 49ers,Chicago Bears
+Miami Dolphins,Denver Broncos
+Minnesota Vikings,Atlanta Falcons
+Green Bay Packers,Tampa Bay Buccaneers
+Los Angeles Chargers,Cleveland Browns
+Oakland Raiders,New York Giants
+Los Angeles Rams,Arizona Cardinals
+New Orleans Saints,Carolina Panthers
+Seattle Seahawks,Philadelphia Eagles
+Pittsburgh Steelers,Cincinnati Bengals
+Atlanta Falcons,New Orleans Saints
+Chicago Bears,Cincinnati Bengals
+Carolina Panthers,Minnesota Vikings
+Dallas Cowboys,New York Giants
+San Francisco 49ers,Houston Texans
+Buffalo Bills,Indianapolis Colts
+Kansas City Chiefs,Oakland Raiders
+Detroit Lions,Tampa Bay Buccaneers
+Green Bay Packers,Cleveland Browns
+Denver Broncos,New York Jets
+Los Angeles Chargers,Washington Redskins
+Arizona Cardinals,Tennessee Titans
+Jacksonville Jaguars,Seattle Seahawks
+Philadelphia Eagles,Los Angeles Rams
+Pittsburgh Steelers,Baltimore Ravens
+Miami Dolphins,New England Patriots
+Denver Broncos,Indianapolis Colts
+Detroit Lions,Chicago Bears
+Kansas City Chiefs,Los Angeles Chargers
+Jacksonville Jaguars,Houston Texans
+Buffalo Bills,Miami Dolphins
+New Orleans Saints,New York Jets
+Baltimore Ravens,Cleveland Browns
+Minnesota Vikings,Cincinnati Bengals
+Philadelphia Eagles,New York Giants
+Carolina Panthers,Green Bay Packers
+Washington Redskins,Arizona Cardinals
+Los Angeles Rams,Seattle Seahawks
+San Francisco 49ers,Tennessee Titans
+New England Patriots,Pittsburgh Steelers
+Dallas Cowboys,Oakland Raiders
+Atlanta Falcons,Tampa Bay Buccaneers
+Baltimore Ravens,Indianapolis Colts
+Minnesota Vikings,Green Bay Packers
+Los Angeles Rams,Tennessee Titans
+Washington Redskins,Denver Broncos
+Los Angeles Chargers,New York Jets
+New England Patriots,Buffalo Bills
+Kansas City Chiefs,Miami Dolphins
+Cincinnati Bengals,Detroit Lions
+Chicago Bears,Cleveland Browns
+New Orleans Saints,Atlanta Falcons
+Carolina Panthers,Tampa Bay Buccaneers
+San Francisco 49ers,Jacksonville Jaguars
+Seattle Seahawks,Dallas Cowboys
+Arizona Cardinals,New York Giants
+Pittsburgh Steelers,Houston Texans
+Philadelphia Eagles,Oakland Raiders
+Indianapolis Colts,Houston Texans
+New England Patriots,New York Jets
+Detroit Lions,Green Bay Packers
+Dallas Cowboys,Philadelphia Eagles
+Pittsburgh Steelers,Cleveland Browns
+New York Giants,Washington Redskins
+Minnesota Vikings,Chicago Bears
+San Francisco 49ers,Los Angeles Rams
+Arizona Cardinals,Seattle Seahawks
+Tampa Bay Buccaneers,New Orleans Saints
+Kansas City Chiefs,Denver Broncos
+Los Angeles Chargers,Oakland Raiders
+Buffalo Bills,Miami Dolphins
+Tennessee Titans,Jacksonville Jaguars
+Cincinnati Bengals,Baltimore Ravens
+Atlanta Falcons,Carolina Panthers

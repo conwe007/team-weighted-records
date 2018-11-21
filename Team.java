@@ -65,6 +65,6 @@ public class Team
 
 	public String toString()
 	{
-		return name + ":\t" + String.valueOf(record_current);
+		return (name + ": " + String.valueOf(record_current) + "\n");
 	}
 }
