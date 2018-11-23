@@ -5,6 +5,7 @@ public class Team
 	private double record_next;
 	private Game[] schedule;
 	private int index;
+	private int wins;
 
 	public Team()
 	{
@@ -13,6 +14,7 @@ public class Team
 		record_next = -1.0;
 		schedule = new Game[16];
 		index = 0;
+		wins = 0;
 	}
 
 	public Team(String n)
@@ -22,6 +24,7 @@ public class Team
 		record_next = 0.0;
 		schedule = new Game[16];
 		index = 0;
+		wins = 0;
 	}
 
 	public String getName()
@@ -63,8 +66,17 @@ public class Team
 		return false;
 	}
 
+	public boolean equals(Team t)
+	{
+		if(t.getName() == name)
+		{
+			return true;
+		}
+		return false;
+	}
+
 	public String toString()
 	{
-		return (name + ": " + String.valueOf(record_current) + "\n");
+		return (String.valueOf(record_current) + " ->\t" + name);
 	}
 }

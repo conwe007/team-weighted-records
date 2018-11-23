@@ -39,6 +39,6 @@ public class Game
 
 	public String toString()
 	{
-		return "Winner:\t" + winner.getName() + "\tLoser:\t" + loser.getName();
+		return ("Winner:\t" + winner.getName() + "\tLoser:\t" + loser.getName());
 	}
 }
